@@ -1,4 +1,4 @@
 # apnacollege1-demo
 This is my first Git Repository
 <br>
-Author - Kriti Minz
+Author - Kriti Minz(SOA)
